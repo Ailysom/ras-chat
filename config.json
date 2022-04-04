@@ -1,0 +1,11 @@
+{
+	"threads": 4,
+	"socket_url": "127.0.0.1:7880",
+	"life_time_token": 3000000,
+	"login": "test_service",
+	"password": "1",
+	"ras_auth_uri": "http://127.0.0.1/api/auth",
+	"queue_len": 5,
+	"max_message_len": 400,
+	"right_role": 14
+}
